@@ -1,4 +1,4 @@
-# Logiciel de gestion de Cabinet Médical en Java
+# Logiciel de gestion de Cabinet Médical en Java (deprecated)
 
 - *Version 1.0*
 - *2019*
