@@ -1,5 +1,7 @@
 # Logiciel de gestion de Cabinet Médical en Java (deprecated)
 
+**La version est obsolète ! changement : Utiliser un modèle MVC et changer toute la structure des classes**
+
 - *Version 1.0*
 - *2019*
 
@@ -29,8 +31,8 @@ Ce logiciel consiste en un logiciel de gestion d'un cabinet médical, réalisé 
 - Gérer les rendez-vous (Ajout/Modification/Annulation)
 
 ## TODO :
-- Changement/Amélioration de la base de donnés (en-cours)
-- Revoir quelques partie du code (en-cours)
+- Changement/Amélioration de la base de donnés
+- Revoir quelques partie du code
 - Passer à Javafx au lieu de Swing
 - Création d'une messagerie entre le medecin et son assistant
 - Amelioration du projet pour pouvoir le multi-usage (plusieurs medecins ...)
