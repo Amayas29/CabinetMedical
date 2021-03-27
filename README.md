@@ -1,6 +1,6 @@
 # Logiciel de gestion de Cabinet Médical en Java (deprecated)
 
-**La version est obsolète ! changement : Utiliser un modèle MVC et changer toute la structure des classes**
+**La version est obsolète ! changement : Utiliser le pattern MVC et changer toute la structure des classes**
 
 - *Version 1.0*
 - *2019*
